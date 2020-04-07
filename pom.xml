@@ -158,7 +158,7 @@
         <kylin.version>2.6.4</kylin.version>
         <libpam4j.version>1.10</libpam4j.version>
         <local.lib.dir>${project.basedir}/../lib/local</local.lib.dir>
-        <log4j.version>1.2.17</log4j.version>
+        <log4j.version>2.13.1</log4j.version>
         <metrics.core.version>3.0.2</metrics.core.version>
         <mockito.version>3.0.0</mockito.version>
         <mockito.all.version>1.10.19</mockito.all.version>
